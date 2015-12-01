@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\practiceLibrary01\bin\Debug\practiceLibrary01.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\practiceLibrary01\bin\Debug\practiceLibrary01.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\practiceLibrary01\obj\Debug\practiceLibrary01.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\practiceLibrary01\obj\Debug\practiceLibrary01.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\practiceLibrary01\obj\Debug\practiceLibrary01.pdb

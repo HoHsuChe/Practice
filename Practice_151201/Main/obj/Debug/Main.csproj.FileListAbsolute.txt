@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\bin\Debug\Main.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\bin\Debug\Main.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\bin\Debug\Main.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\obj\Debug\Main.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\obj\Debug\Main.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\obj\Debug\Main.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\obj\Debug\Main.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\bin\Debug\practiceLibrary01.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\Practice_151201\Main\bin\Debug\practiceLibrary01.pdb
